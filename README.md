@@ -1,6 +1,6 @@
 # Wordle-Bot
 
-Wordle is a viral web-based word game that requires players to guess a 5-letter word with in 6 tries. On each guess the game provides feedback on what characters in your gus or wrong and right. This java program will help you solve wordles by suggesting optimal gueses! The program has a 100% success rate on over 50 Wordles played!
+Wordle is a viral web-based word game that requires players to guess a 5-letter word with in 6 tries. On each guess the game provides feedback on what characters in your guesss you got wrong and right. This java program, Wordle-Bot, will help you solve Wordles by suggesting optimal gueses! The program has a 100% success rate on over 50 Wordles played!
 
 # Approach
 
