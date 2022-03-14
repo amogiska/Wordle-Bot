@@ -2,7 +2,7 @@
 
 Wordle is a viral web-based word game that requires players to guess a 5-letter word with in 6 tries. On each guess the game provides feedback on what characters in your gus or wrong and right. This java program will help you solve wordles by suggesting optimal gueses! The program has a 100% success rate on over 50 Wordles played!
 
-#Approach
+# Approach
 
 The program is divided into three classes:
 -Dictionary: keeps track of the all the possible valid words given the conditions.
