@@ -4,9 +4,12 @@ Wordle is a viral web-based word game that requires players to guess a 5-letter 
 
 # Approach
 
-The program is divided into three classes:\n
--Dictionary: keeps track of the all the possible valid words given the conditions.\n
+The program is divided into three classes:
+
+-Dictionary: keeps track of the all the possible valid words given the conditions.
+
 -Updates: updates the dictionary based on the user input of 
+
 -Main: the driver class that takes the user input and suggests words for use.
 
 After the program suggests a guess, the user can input the word into the game and check if it is valid. If the word is valid the user is prompted to enter which characters he missed, which ones he got right, and which ones he got right in the correct position. After this is updated in the updates class, the information is passed on to the dictionary class that narrows the list of words based on the conditions, which in turn helps produce the next guess.
