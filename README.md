@@ -8,7 +8,7 @@ The program is divided into three classes:
 
 -Dictionary: keeps track of the all the possible valid words given the conditions.
 
--Updates: updates the dictionary based on the user input of 
+-Updates: updates the dictionary based on the user input. 
 
 -Main: the driver class that takes the user input and suggests words for use.
 
